@@ -1,0 +1,5 @@
+name: 'THX-i Default Content'
+type: module
+package: THX-i
+description: 'Adds default content.'
+core_version_requirement: ^8 || ^9

@@ -1,0 +1,5 @@
+services:
+  thxi_default_content.route_subscriber:
+    class: Drupal\thxi_default_content\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }

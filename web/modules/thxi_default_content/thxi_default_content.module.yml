@@ -1,0 +1,8 @@
+name: 'THX-i Default Content'
+type: module
+package: THX-i
+description: 'Adds default content.'
+core: 8.x
+dependencies:
+  - default_content:default_content
+  - developer_marketplace
